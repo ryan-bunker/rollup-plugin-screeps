@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "git-rev-sync": "^1.9.1",
-    "screeps-api": "^1.4.0"
+    "screeps-api": "https://github.com/ryan-bunker/node-screeps-api/archive/17cf106bb8f8bb04f00fd6a153925a095877ff3b.tar.gz"
   },
   "devDependencies": {
     "@types/mocha": "^2.2.46",
